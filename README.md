@@ -7,7 +7,7 @@ The application has no database, authentication, persistent storage, or
 external API dependencies.
 
 ## Endpoints
-
+dev
 | Endpoint | Response | Purpose |
 | --- | --- | --- |
 | `GET /` | DevOps landing page | Browser demo |
